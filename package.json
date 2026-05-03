@@ -1,0 +1,11 @@
+{
+  "name": "titan-flood",
+  "version": "2.0.0",
+  "description": "Layer 7 & Layer 4 DDoS toolkit - github.com/thesystemowner",
+  "author": "github.com/thesystemowner",
+  "dependencies": {
+    "cloudscraper": "^4.0.0",
+    "ws": "^8.0.0",
+    "http2": "^4.0.0"
+  }
+}
